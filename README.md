@@ -105,4 +105,5 @@ https://www.w3resource.com/python-exercises/
 https://github.com/sagemathinc/cocalc-docker
 
 https://stackoverflow.com/questions/46592833/how-to-use-switch-statement-inside-a-react-component/46593006
+https://docs.google.com/document/d/17wPdxI5yMG8vkB5qdQdMlXwulcvv_xaYF_j8YHs3_kI/edit
 
