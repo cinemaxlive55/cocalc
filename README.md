@@ -94,3 +94,15 @@ We are grateful to BrowserStack for providing infrastructure to test CoCalc.
 ### Google
 
 We thank Google for donating over \$150K in cloud credits since 2014 to support this project.
+
+kblabs.in/linkedin
+instructors@kplabs.in
+
+https://www.programiz.com/
+https://note.nkmk.me/en/
+https://www.w3resource.com/python-exercises/
+
+https://github.com/sagemathinc/cocalc-docker
+
+https://stackoverflow.com/questions/46592833/how-to-use-switch-statement-inside-a-react-component/46593006
+
